@@ -55,6 +55,7 @@ Included the Returns table to make return-related information available for furt
 4.3 Data Model View
 
 The following diagram illustrates the relationships between the central fact table and the supporting tables in Power BI Model View.
+
 <img width="706" height="429" alt="image" src="https://github.com/user-attachments/assets/c4ac13b5-e4cf-4065-bf82-ec8b91def319" />
 
 ## 5. DAX Development
